@@ -1,4 +1,4 @@
-# Pix LNS Bridge
+# LNS Bridge
 
 ## About the Application
 
