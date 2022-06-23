@@ -1,8 +1,5 @@
 # Pix LNS Bridge
 
-[![pipeline status](https://gl.thingularity.online/pixelcore/pix-lns-bridge/badges/master/pipeline.svg)](https://gl.thingularity.online/pixelcore/pix-lns-bridge/-/commits/master)
-[![coverage report](https://gl.thingularity.online/pixelcore/pix-lns-bridge/badges/master/coverage.svg)](https://gl.thingularity.online/pixelcore/pix-lns-bridge/-/commits/master)
-
 ## About the Application
 
 `pixlnsbridge` is a component of `Pixel Application Server` that provides bi-directional connectivity between TrackCentral network server and applications or services with generic data stream format.
